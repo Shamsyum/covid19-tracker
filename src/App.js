@@ -4,10 +4,10 @@ import './App.css';
 
 
 function App() {
-  const response = await fetch()
   return (
     <div className="App">
-      Hello Covid19-tracker
+      <h1>Hello Covid19-tracker</h1>
+      
     </div>
   );
 }
